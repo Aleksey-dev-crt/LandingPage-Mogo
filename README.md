@@ -12,5 +12,3 @@ _Данный проект представляет собой веб стран
 
 - [Mogo](https://aleksey-dev-crt.github.io/LandingPage-Mogo/index.html)
 
-*статус проекта: завершен*
-
